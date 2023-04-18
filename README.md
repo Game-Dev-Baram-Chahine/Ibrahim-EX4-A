@@ -2,7 +2,7 @@
 
 This repository is for a Space shooter game in unity, it's for the first part of exericse 4 in the game development course.
 
-I implemented two tasks in the homework pdf:
+I implemented two tasks in the homework PDF:
 1. The player has the ability to get a sheild by colliding with the green + in the screen, if the player does so, then he gets a sheild for 5 seconds.
 2. The player has three lives (hit points) meaning he can get hit three times without dying
 
