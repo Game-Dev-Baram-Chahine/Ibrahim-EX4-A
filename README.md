@@ -11,16 +11,16 @@ I implemented two tasks in the homework pdf:
 
 Links for the scripts that i added or modified in the project:
 
-[Sheild]()
+[Sheild](https://github.com/Game-Dev-Baram-Chahine/Ibrahim-EX4-A/blob/main/Assets/Scripts/4-levels/Sheild.cs)
 
 
-[HitPoints]()
+[HitPoints](https://github.com/Game-Dev-Baram-Chahine/Ibrahim-EX4-A/blob/main/Assets/Scripts/4-levels/HitPoints.cs)
 
 
-[DestroyOnTrigger2D]()
+[DestroyOnTrigger2D](https://github.com/Game-Dev-Baram-Chahine/Ibrahim-EX4-A/blob/main/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs)
 
 
-[ShieldThePlayer]()
+[ShieldThePlayer](https://github.com/Game-Dev-Baram-Chahine/Ibrahim-EX4-A/blob/main/Assets/Scripts/3-collisions/ShieldThePlayer.cs)
 
 ## Credits
 
