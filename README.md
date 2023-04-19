@@ -7,7 +7,7 @@ I implemented two tasks in the homework PDF:
 2. The player has three lives (hit points) meaning he can get hit three times without dying
 
 [Play on itch](https://gamedevbc.itch.io/ibrahims-space-game-ex4-a)
-
+[Watch on youtube](https://youtu.be/mZlkUMcNmrg)
 
 Links for the scripts that i added or modified in the project:
 
